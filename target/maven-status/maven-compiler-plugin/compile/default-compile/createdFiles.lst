@@ -1,0 +1,13 @@
+ma/projet/service/FemmeService.class
+ma/projet/service/HommeService.class
+ma/projet/dao/MariageDao.class
+ma/projet/dao/HommeDao.class
+ma/projet/dao/FemmeDao.class
+ma/projet/service/MariageService.class
+ma/projet/beans/Mariage.class
+ma/projet/test/Test.class
+ma/projet/beans/Personne.class
+ma/projet/beans/Femme.class
+ma/projet/dao/IDao.class
+ma/projet/util/HibernateUtil.class
+ma/projet/beans/Homme.class
